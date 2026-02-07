@@ -1,5 +1,0 @@
-"homepage": "https://leelanathtelugu.github.io",
-"scripts": {
-  "build": "vite build",
-  "deploy": "gh-pages -d dist"
-}
